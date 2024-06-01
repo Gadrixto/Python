@@ -1,3 +1,3 @@
 # Python 🐍
-Python exercice: in learning process :loading: 
+Python exercice: in learning process 
 
