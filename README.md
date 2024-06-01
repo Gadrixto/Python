@@ -1,2 +1,3 @@
-# Python
-Ejercicios de python
+# Python 🐍
+Python exercice: in learning process :loading: 
+
